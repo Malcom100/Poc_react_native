@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AwesomeProject</string>
+
+    <string name="title_simple_view">My simple View </string>
+    <string name="type_one_simple_view">Type one </string>
+    <string name="type_two_simple_view">Type two </string>
+    <string name="type_three_simple_view">Type three </string>
+</resources>
